@@ -3,9 +3,12 @@ site_url: https://vting-tfc.top
 site_author: TFC
 site_description: 一个做笔记的地方
 
-nav:                       # 导航栏菜单结构，层级与目录结构对应
+# 导航栏菜单结构，层级与目录结构对应
+nav:
   - 首页: index.md
   - 学习:
+    - FPGA:
+      - 初学者FPGA开发板选择: 学习/FPGA/初学者FPGA开发板选择.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
@@ -24,12 +27,23 @@ nav:                       # 导航栏菜单结构，层级与目录结构对应
       - PCL正版验证问题: 娱乐/我的世界/PCL正版验证问题.md
     - 缺氧:
       - 缺氧经验总结: 娱乐/缺氧/缺氧经验总结.md
+
 # 设置主题
 theme:
   name: material
   features:
     - navigation.tabs      # 顶部标签页导航
     - navigation.sections  # 自动提取标题生成章节锚点
+    - content.code.copy    # 代码复制
   palette:
     - scheme: default      # 浅色模式
     - scheme: slate        # 暗黑模式（用户可切换）
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
