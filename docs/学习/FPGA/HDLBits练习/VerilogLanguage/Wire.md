@@ -17,12 +17,21 @@ The diagram below illustrates how each part of the circuit corresponds to each b
   
 In addition to continuous assignments, Verilog has three other assignment types that are used in procedural blocks, two of which are synthesizable. We won't be using them until we start using procedural blocks.
 
-### Solution
+### Official Solution
 ```Verilog
 module top_module( input in, output out );
 	
 	assign out = in;
 	// Note that wires are directional, so "assign in = out" is not equivalent.
 	
+endmodule
+```
+
+### My Solution
+```Verilog
+module top_module( input in, output out );
+
+    assign out = in;
+    
 endmodule
 ```
