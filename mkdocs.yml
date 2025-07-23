@@ -19,6 +19,7 @@ nav:
         - Verilog Language:
           - Wire: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire.md
           - Wire4: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire4.md
+          - Notgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Notgate.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
