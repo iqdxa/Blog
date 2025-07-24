@@ -17,14 +17,15 @@ nav:
           - Step one: 学习/FPGA/HDLBits练习/GettingStarted/Step_one.md
           - Zero: 学习/FPGA/HDLBits练习/GettingStarted/Zero.md
         - Verilog Language:
-          - Wire: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire.md
-          - Wire4: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire4.md
-          - Notgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Notgate.md
-          - Andgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Andgate.md
-          - Norgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Norgate.md
-          - Xnorgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Xnorgate.md
-          - Wire decl: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire_decl.md
-          - 7485: 学习/FPGA/HDLBits练习/VerilogLanguage/7485.md
+          - Basics:
+            - Wire: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Wire.md
+            - Wire4: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Wire4.md
+            - Notgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Notgate.md
+            - Andgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Andgate.md
+            - Norgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Norgate.md
+            - Xnorgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Xnorgate.md
+            - Wire decl: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/Wire_decl.md
+            - 7485: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/7485.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
