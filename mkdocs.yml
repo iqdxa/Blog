@@ -22,6 +22,7 @@ nav:
           - Notgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Notgate.md
           - Andgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Andgate.md
           - Norgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Norgate.md
+          - Xnorgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Xnorgate.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
@@ -57,6 +58,15 @@ markdown_extensions:
       anchor_linenums: true
       line_spans: __span
       pygments_lang_class: true
+
   - pymdownx.inlinehilite
   - pymdownx.snippets
+
+  # 提示块
+  - admonition
+  - pymdownx.details
   - pymdownx.superfences
+
+  # 显示属于提示
+  - abbr
+  - pymdownx.snippets
