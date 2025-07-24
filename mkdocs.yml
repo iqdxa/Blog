@@ -28,6 +28,7 @@ nav:
             - 7485: 学习/FPGA/HDLBits练习/VerilogLanguage/Basics/7485.md
           - Vectors:
             - Vector0: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector0.md
+            - Vector1: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector1.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
