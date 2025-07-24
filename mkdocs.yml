@@ -29,6 +29,7 @@ nav:
           - Vectors:
             - Vector0: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector0.md
             - Vector1: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector1.md
+            - Vector2: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector2.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
