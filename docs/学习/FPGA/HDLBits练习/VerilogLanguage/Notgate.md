@@ -8,9 +8,10 @@ This circuit is similar to wire, but with a slight difference. When making the 
 
 Use an assign statement. The `assign` statement will _continuously drive_ the inverse of `in` onto wire `out`.
 
-  
-
 [![](https://hdlbits.01xz.net/mw/images/9/9e/Notgate.png)](https://hdlbits.01xz.net/wiki/File:Notgate.png)
+
+??? tip
+    Verilog has separate bitwise-NOT (~) and logical-NOT (!) operators, like C. Since we're working with a one-bit here, it doesn't matter which we choose.
 
 ### Official Solution
 ```Verilog

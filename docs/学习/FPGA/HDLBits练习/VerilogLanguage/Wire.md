@@ -17,6 +17,9 @@ The diagram below illustrates how each part of the circuit corresponds to each b
   
 In addition to continuous assignments, Verilog has three other assignment types that are used in procedural blocks, two of which are synthesizable. We won't be using them until we start using procedural blocks.
 
+??? tip
+	A continuous assignment assigns the right side to the left side continuously, so any change to the RHS is immediately seen in the LHS.
+
 ### Official Solution
 ```Verilog
 module top_module( input in, output out );

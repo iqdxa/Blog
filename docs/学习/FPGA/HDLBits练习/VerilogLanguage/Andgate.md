@@ -8,6 +8,9 @@ This circuit now has three wires (`a`, `b`, and `out`). Wires `a` and `b` 
 
 Note that this circuit is very similar to the NOT gate, just with one more input. If it sounds different, it's because I've started describing signals as being _driven_ (has a known value determined by something attached to it) or _not driven_ by something. `Input wires` are driven by something outside the module. `assign` statements will drive a logic level onto a wire. As you might expect, a wire cannot have more than one driver (what is its logic level if there is?), and a wire that has no drivers will have an undefined value (often treated as 0 when synthesizing hardware).
 
+??? tip
+    Verilog has separate bitwise-AND (&) and logical-AND (&&) operators, like C. Since we're working with a one-bit here, it doesn't matter which we choose.
+
 ### My Solution
 
 ```Verilog

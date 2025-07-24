@@ -7,6 +7,9 @@ We're going to start with a small bit of HDL to get familiar with the interface 
 
 Build a circuit with no inputs and one output. That output should always drive 1 (or logic high).
 
+??? tip
+    We want to assign 1 to the output one.
+
 ### Official Solution
 ```Verilog
 module top_module( output one );
@@ -26,6 +29,6 @@ module top_module( output one );
 endmodule
 ```
 
-### 笔记
+### Note
 
 - 在赋值的时候可以写明数值的位宽、基数和常量，例如本题中用`1'b1`替换`1`。

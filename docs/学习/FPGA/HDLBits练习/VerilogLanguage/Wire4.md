@@ -14,6 +14,9 @@ When you have multiple assign statements, the order in which they appear in the 
 
 One potential source of confusion that should perhaps be clarified now: The green arrows here represent connections between wires, but are not wires in themselves. The module itself already has 7 wires declared (named a, b, c, w, x, y, and z). This is because input and output declarations actually declare a wire unless otherwise specified. Writing input wire a is the same as input a. Thus, the assign statements are not creating wires, they are creating the connections between the 7 wires that already exist.
 
+??? tip
+	The concatenation operator { signal1, signal2, signal3, ... } would be useful here.
+	
 ### Official Solution
 ```Verilog
 module top_module (
