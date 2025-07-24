@@ -24,5 +24,8 @@ module top_module( output one );
     assign one = 1;
 
 endmodule
-
 ```
+
+### 笔记
+
+- 在赋值的时候可以写明数值的位宽、基数和常量，例如本题中用`1'b1`替换`1`。
