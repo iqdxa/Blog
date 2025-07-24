@@ -24,6 +24,7 @@ nav:
           - Norgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Norgate.md
           - Xnorgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Xnorgate.md
           - Wire decl: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire_decl.md
+          - 7485: 学习/FPGA/HDLBits练习/VerilogLanguage/7485.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
