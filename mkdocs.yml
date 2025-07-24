@@ -23,6 +23,7 @@ nav:
           - Andgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Andgate.md
           - Norgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Norgate.md
           - Xnorgate: 学习/FPGA/HDLBits练习/VerilogLanguage/Xnorgate.md
+          - Wire decl: 学习/FPGA/HDLBits练习/VerilogLanguage/Wire_decl.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
@@ -49,18 +50,18 @@ theme:
     - navigation.tabs      # 顶部标签页导航
     - navigation.sections  # 自动提取标题生成章节锚点
     - content.code.copy    # 代码复制
+    - content.code.annotate  
   palette:
     - scheme: default      # 浅色模式
     - scheme: slate        # 暗黑模式（用户可切换）
 
 markdown_extensions:
+  # 代码块
   - pymdownx.highlight:
       anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  - pymdownx.superfences
 
   # 提示块
   - admonition
@@ -70,3 +71,14 @@ markdown_extensions:
   # 显示属于提示
   - abbr
   - pymdownx.snippets
+
+  # 内容标签页
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+  # 表格
+  - tables
+
+  # 脚注
+  - footnotes
