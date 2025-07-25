@@ -31,6 +31,7 @@ nav:
             - Vector1: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector1.md
             - Vector2: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector2.md
             - Vectorgates: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vectorgates.md
+            - Gates4: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Gates4.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
