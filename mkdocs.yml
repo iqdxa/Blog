@@ -36,6 +36,8 @@ nav:
             - Vectorr: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vectorr.md
             - Vector4: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector4.md
             - Vector5: 学习/FPGA/HDLBits练习/VerilogLanguage/Vectors/Vector5.md
+          - Module：Hierarchy:
+            - Module: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
