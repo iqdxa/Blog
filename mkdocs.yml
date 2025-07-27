@@ -40,6 +40,7 @@ nav:
             - Module: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module.md
             - Module pos: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_pos.md
             - Module name: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_name.md
+            - Module shift: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_shift.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
