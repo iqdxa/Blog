@@ -12,7 +12,7 @@ def serve():
 
 def deploy():
     # 部署
-    subprocess.run(['mkdocs', 'gh-deploy --force'], stdout=subprocess.PIPE, text=True)
+    subprocess.run(['mkdocs', 'gh-deploy', '--force'], stdout=subprocess.PIPE, text=True)
 
 menu_list = ["构建", "服务", "部署"]
 
