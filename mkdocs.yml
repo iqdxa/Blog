@@ -62,6 +62,7 @@ nav:
               - Thermostat: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Thermostat.md
               - Popcount3: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Popcount3.md
               - Gatesv: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Gatesv.md
+              - Gatesv100: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Gatesv100.md
             # - Multiplexers:
             #   - Mux9to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux9to1v.md
     - Rust:
