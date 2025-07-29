@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - Android
+  - ADB
+---
 ### ADB安装
 #### 已安装Android Studio的情况
 - 找到Android Studio SDK文件所在位置，SDK--->platform-tools--->找到adb的绝对路径。

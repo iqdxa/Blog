@@ -98,6 +98,10 @@ theme:
     - scheme: default      # 浅色模式
     - scheme: slate        # 暗黑模式（用户可切换）
 
+plugins:
+  - tags:
+      tags_file: tags.md # (1)!
+
 markdown_extensions:
   # 代码块
   - pymdownx.highlight:

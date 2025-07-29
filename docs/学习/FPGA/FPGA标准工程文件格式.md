@@ -1,3 +1,9 @@
+---
+authors:
+  - TFC
+tags:
+  - FPGA
+---
 # FPGA标准工程文件格式
 
 为了方便管理，一个FPGA工程应该包含如下文件夹：

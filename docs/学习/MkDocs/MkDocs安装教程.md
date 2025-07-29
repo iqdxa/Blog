@@ -6,6 +6,7 @@ authors:
   - TFC
 tags:
     - 教程
+    - MkDocs
 ---
 
 ### 安装 MkDocs

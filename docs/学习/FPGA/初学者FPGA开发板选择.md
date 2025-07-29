@@ -1,3 +1,11 @@
+---
+authors:
+  - TFC
+tags:
+  - 学习
+  - FPGA
+  - 教程
+---
 # 初学者FPGA开发板选择
 - 参考：
 	- [如何选择适合初学者的FPGA开发板？ | 嵌入式开发](https://www.duwenxian.com/qianrushi/archives/16)
