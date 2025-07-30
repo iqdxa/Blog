@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Module pos
 - 来源：[Module pos - HDLBits](https://hdlbits.01xz.net/wiki/Module_pos)
 

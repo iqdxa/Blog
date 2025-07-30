@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Module
 - 来源：[Module - HDLBits](https://hdlbits.01xz.net/wiki/Module)
 

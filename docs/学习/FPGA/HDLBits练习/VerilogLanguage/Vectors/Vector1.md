@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Vector1
 - 来源：[Vector1 - HDLBits](https://hdlbits.01xz.net/wiki/Vector1)
 

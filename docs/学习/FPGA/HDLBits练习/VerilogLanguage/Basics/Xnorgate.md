@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Xnorgate
 - 来源：[Xnorgate - HDLBits](https://hdlbits.01xz.net/wiki/Xnorgate)
 

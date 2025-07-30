@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Mux2to1
 - 来源：[Mux2to1 - HDLBits](https://hdlbits.01xz.net/wiki/Mux2to1)
 

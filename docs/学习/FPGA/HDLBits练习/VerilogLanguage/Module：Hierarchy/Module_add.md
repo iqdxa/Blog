@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Module add
 - 来源：[Module add - HDLBits](https://hdlbits.01xz.net/wiki/Module_add)
 

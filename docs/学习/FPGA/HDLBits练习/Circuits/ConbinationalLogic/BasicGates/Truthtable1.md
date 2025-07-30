@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Truthtable1
 - 来源：[Truthtable1 - HDLBits](https://hdlbits.01xz.net/wiki/Truthtable1)
 

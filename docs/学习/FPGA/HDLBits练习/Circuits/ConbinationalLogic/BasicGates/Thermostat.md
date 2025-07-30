@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Thermostat
 - 来源：[Thermostat - HDLBits](https://hdlbits.01xz.net/wiki/Thermostat)
 

@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Vectorr
 - 来源：[Vectorr - HDLBits](https://hdlbits.01xz.net/wiki/Vectorr)
 

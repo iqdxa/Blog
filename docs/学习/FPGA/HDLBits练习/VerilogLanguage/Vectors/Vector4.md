@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Vector4
 - 来源：[Vector4 - HDLBits](https://hdlbits.01xz.net/wiki/Vector4)
 

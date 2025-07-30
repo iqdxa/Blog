@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Step_one
 - 来源：[Step one - HDLBits](https://hdlbits.01xz.net/wiki/Step_one)
 

@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Wire
 - 来源：[Wire - HDLBits](https://hdlbits.01xz.net/wiki/Wire)
 

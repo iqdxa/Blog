@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Vectorgates
 - 来源：[Vectorgates - HDLBits](https://hdlbits.01xz.net/wiki/Vectorgates)
 

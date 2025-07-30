@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Vector5
 - 来源：[Vector5 - HDLBits](https://hdlbits.01xz.net/wiki/Vector5)
 

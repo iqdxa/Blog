@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Andgate
 - 来源：[Andgate - HDLBits](https://hdlbits.01xz.net/wiki/Andgate)
 

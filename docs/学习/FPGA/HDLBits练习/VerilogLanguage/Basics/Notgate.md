@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Notgate
 - 来源：[Notgate - HDLBits](https://hdlbits.01xz.net/wiki/Notgate)
 

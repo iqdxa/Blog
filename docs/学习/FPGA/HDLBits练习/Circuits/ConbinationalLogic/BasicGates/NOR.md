@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Exams/m2014 q4e
 - 来源：[Exams/m2014 q4e - HDLBits](https://hdlbits.01xz.net/wiki/Exams/m2014_q4e)
 

@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Norgate
 - 来源：[Norgate - HDLBits](https://hdlbits.01xz.net/wiki/Norgate)
 

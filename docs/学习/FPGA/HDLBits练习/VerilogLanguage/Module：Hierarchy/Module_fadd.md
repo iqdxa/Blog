@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Module fadd
 - 来源：[Module fadd - HDLBits](https://hdlbits.01xz.net/wiki/Module_fadd)
 

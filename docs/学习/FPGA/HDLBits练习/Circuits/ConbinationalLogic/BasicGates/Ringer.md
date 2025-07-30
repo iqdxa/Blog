@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Ringer
 - 来源：[Ringer - HDLBits](https://hdlbits.01xz.net/wiki/Ringer)
 

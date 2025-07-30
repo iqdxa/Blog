@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Gatesv100
 - 来源：[Gatesv100 - HDLBits](https://hdlbits.01xz.net/wiki/Gatesv100)
 

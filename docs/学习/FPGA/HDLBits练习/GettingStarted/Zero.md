@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Zero
 - 来源：[Zero - HDLBits](https://hdlbits.01xz.net/wiki/Zero)
 

@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Gates
 - 来源：[Gates - HDLBits](https://hdlbits.01xz.net/wiki/Gates)
 

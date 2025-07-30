@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Wire4
 - 来源：[Wire4 - HDLBits](https://hdlbits.01xz.net/wiki/Wire4)
 

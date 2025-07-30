@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Gatesv
 - 来源：[Gatesv - HDLBits](https://hdlbits.01xz.net/wiki/Gatesv)
 

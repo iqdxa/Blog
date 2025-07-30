@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Module shift
 - 来源：[Module shift - HDLBits](https://hdlbits.01xz.net/wiki/Module_shift)
 

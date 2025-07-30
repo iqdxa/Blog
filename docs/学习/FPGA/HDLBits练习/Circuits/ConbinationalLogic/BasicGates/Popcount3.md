@@ -1,3 +1,10 @@
+---
+authors:
+  - TFC
+tags:
+  - HDLBits
+  - Verilog
+---
 # Popcount3
 - 来源：[Popcount3 - HDLBits](https://hdlbits.01xz.net/wiki/Popcount3)
 
