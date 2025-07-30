@@ -46,6 +46,8 @@ nav:
             - Module fadd: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_fadd.md
             - Module cseladd: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_cseladd.md
             - Module addsub: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_addsub.md
+          - Procedures:
+            - Alwaysblock1: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock1.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
