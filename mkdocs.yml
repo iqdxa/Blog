@@ -44,6 +44,7 @@ nav:
             # - Module shift8: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_shift8.md
             - Module add: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_add.md
             - Module fadd: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_fadd.md
+            - Module cseladd: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_cseladd.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
