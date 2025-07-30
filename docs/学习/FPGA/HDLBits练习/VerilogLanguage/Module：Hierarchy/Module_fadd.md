@@ -4,6 +4,7 @@ authors:
 tags:
   - HDLBits
   - Verilog
+time: 2025-07-30
 ---
 # Module fadd
 - 来源：[Module fadd - HDLBits](https://hdlbits.01xz.net/wiki/Module_fadd)
@@ -49,11 +50,6 @@ If your submission is missing a `module add1`, you will get an error message th
 	Full adder equations:  
 	sum = a ^ b ^ cin  
 	cout = a&b | a&cin | b&cin
-### Official Solution
-
-```Verilog
-
-```
 
 ### My Solution
 
