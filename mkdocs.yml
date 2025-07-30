@@ -48,6 +48,7 @@ nav:
             - Module addsub: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_addsub.md
           - Procedures:
             - Alwaysblock1: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock1.md
+            - Alwaysblock2: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock2.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
