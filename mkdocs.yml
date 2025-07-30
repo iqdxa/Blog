@@ -49,6 +49,7 @@ nav:
           - Procedures:
             - Alwaysblock1: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock1.md
             - Alwaysblock2: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock2.md
+            - Always if: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Always_if.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
