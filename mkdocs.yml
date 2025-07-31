@@ -52,6 +52,7 @@ nav:
             - Always if: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_if.md
             - Always if2: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_if2.md
             - Always case: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_case.md
+            - Always case2: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_case2.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
