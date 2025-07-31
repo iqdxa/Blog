@@ -12,17 +12,21 @@
         <meta name="author" content="TFC">
       
       
-        <link rel="canonical" href="https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module%20fadd/">
+        <link rel="canonical" href="https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Alwaysblock2/">
       
       
+        <link rel="prev" href="../Alwaysblock1/">
       
       
-      <link rel="icon" href="../../../../../../assets/images/favicon.png">
+        <link rel="next" href="../Always_if/">
+      
+      
+      <link rel="icon" href="../../../../../../images/favicon.jpg">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.15">
     
     
       
-        <title>Module fadd - TFC的笔记本</title>
+        <title>Alwaysblock2 - TFC的笔记本</title>
       
     
     
@@ -74,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#module-fadd" class="md-skip">
+        <a href="#alwaysblock2" class="md-skip">
           Skip to content
         </a>
       
@@ -90,8 +94,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../../../../../.." title="TFC的笔记本" class="md-header__button md-logo" aria-label="TFC的笔记本" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../../../../../assets/logo.jpg" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -108,7 +111,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Module fadd
+              Alwaysblock2
             
           </span>
         </div>
@@ -137,46 +140,6 @@
       <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
     
     
-    
-      
-      
-        <label class="md-header__button md-icon" for="__search">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        </label>
-        <div class="md-search" data-md-component="search" role="dialog">
-  <label class="md-search__overlay" for="__search"></label>
-  <div class="md-search__inner" role="search">
-    <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
-      <label class="md-search__icon md-icon" for="__search">
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
-        
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
-      </label>
-      <nav class="md-search__options" aria-label="Search">
-        
-        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
-        </button>
-      </nav>
-      
-    </form>
-    <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
-        <div class="md-search-result" data-md-component="search-result">
-          <div class="md-search-result__meta">
-            Initializing search
-          </div>
-          <ol class="md-search-result__list" role="presentation"></ol>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-      
     
     
       <div class="md-header__source">
@@ -228,6 +191,8 @@
   
   
   
+    
+  
   
     
     
@@ -235,10 +200,12 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
+      <li class="md-tabs__item md-tabs__item--active">
         <a href="../../../../%E5%88%9D%E5%AD%A6%E8%80%85FPGA%E5%BC%80%E5%8F%91%E6%9D%BF%E9%80%89%E6%8B%A9/" class="md-tabs__link">
           
   
@@ -308,8 +275,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="../../../../../.." title="TFC的笔记本" class="md-nav__button md-logo" aria-label="TFC的笔记本" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+  <img src="../../../../../../assets/logo.jpg" alt="logo">
 
     </a>
     TFC的笔记本
@@ -355,26 +321,31 @@
       
   
   
+    
   
   
+  
     
     
     
     
+      
+        
+        
       
       
         
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
         
           
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
             
   
   
@@ -387,7 +358,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
             学习
@@ -398,26 +369,31 @@
                 
   
   
+    
   
   
+  
     
     
     
     
       
       
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" >
         
           
-          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
+          
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
             
   
   
@@ -430,7 +406,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_2_1_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2_1">
             <span class="md-nav__icon md-icon"></span>
             FPGA
@@ -510,8 +486,10 @@
                 
   
   
+    
   
   
+  
     
     
     
@@ -522,11 +500,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4" checked>
         
           
           <label class="md-nav__link" for="__nav_2_1_4" id="__nav_2_1_4_label" tabindex="0">
@@ -542,7 +520,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_4_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_1_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2_1_4">
             <span class="md-nav__icon md-icon"></span>
             HDLBits练习
@@ -650,8 +628,10 @@
                 
   
   
+    
   
   
+  
     
     
     
@@ -662,11 +642,11 @@
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4_2" checked>
         
           
           <label class="md-nav__link" for="__nav_2_1_4_2" id="__nav_2_1_4_2_label" tabindex="0">
@@ -682,7 +662,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_1_4_2_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_1_4_2_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_2_1_4_2">
             <span class="md-nav__icon md-icon"></span>
             Verilog Language
@@ -1232,7 +1212,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Module/" class="md-nav__link">
+      <a href="../../Module%EF%BC%9AHierarchy/Module/" class="md-nav__link">
         
   
   
@@ -1255,7 +1235,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Module_pos/" class="md-nav__link">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_pos/" class="md-nav__link">
         
   
   
@@ -1278,7 +1258,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Module_name/" class="md-nav__link">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_name/" class="md-nav__link">
         
   
   
@@ -1301,7 +1281,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../Module_shift/" class="md-nav__link">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_shift/" class="md-nav__link">
         
   
   
@@ -1324,12 +1304,356 @@
   
   
     <li class="md-nav__item">
-      <a href="../Module_add/" class="md-nav__link">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_add/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     Module add
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_fadd/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module fadd
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_cseladd/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module cseladd
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Module%EF%BC%9AHierarchy/Module_addsub/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Module addsub
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1_4_2_4" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2_1_4_2_4" id="__nav_2_1_4_2_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Procedures
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="5" aria-labelledby="__nav_2_1_4_2_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2_1_4_2_4">
+            <span class="md-nav__icon md-icon"></span>
+            Procedures
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Alwaysblock1/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Alwaysblock1
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Alwaysblock2
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Alwaysblock2
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#problem-statement" class="md-nav__link">
+    <span class="md-ellipsis">
+      Problem Statement
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Problem Statement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#blocking-vs-non-blocking-assignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blocking vs. Non-Blocking Assignment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#a-bit-of-practice" class="md-nav__link">
+    <span class="md-ellipsis">
+      A bit of practice
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#my-solution" class="md-nav__link">
+    <span class="md-ellipsis">
+      My Solution
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Always_if/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Always if
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Always_if2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Always if2
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Always_case/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Always case
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Always_case2/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Always case2
     
   </span>
   
@@ -2026,17 +2350,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
         
           
-          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
             
   
   
@@ -2100,17 +2427,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
         
           
-          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="">
             
   
   
@@ -2174,17 +2504,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
         
           
-          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="">
             
   
   
@@ -2248,17 +2581,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
         
           
-          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="">
             
   
   
@@ -2322,17 +2658,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
         
           
-          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="">
             
   
   
@@ -2396,17 +2735,20 @@
       
       
         
+          
+          
+        
       
     
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
       
         
         
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" >
         
           
-          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="">
             
   
   
@@ -2746,12 +3088,27 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Problem Statement">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#blocking-vs-non-blocking-assignment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Blocking vs. Non-Blocking Assignment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
       
         <li class="md-nav__item">
-  <a href="#official-solution" class="md-nav__link">
+  <a href="#a-bit-of-practice" class="md-nav__link">
     <span class="md-ellipsis">
-      Official Solution
+      A bit of practice
     </span>
   </a>
   
@@ -2761,15 +3118,6 @@
   <a href="#my-solution" class="md-nav__link">
     <span class="md-ellipsis">
       My Solution
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      未完成
     </span>
   </a>
   
@@ -2789,97 +3137,70 @@
                 
                   
 
+  <nav class="md-tags" >
+    
+      
+      
+      
+        <a href="../../../../../../tags/#tag:hdlbits" class="md-tag">HDLBits</a>
+      
+    
+      
+      
+      
+        <a href="../../../../../../tags/#tag:verilog" class="md-tag">Verilog</a>
+      
+    
+  </nav>
+
 
   
   
 
 
-<h1 id="module-fadd">Module fadd</h1>
+<h1 id="alwaysblock2">Alwaysblock2</h1>
 <ul>
-<li>来源：<a href="https://hdlbits.01xz.net/wiki/Module_fadd">Module fadd - HDLBits</a></li>
+<li>来源：<a href="https://hdlbits.01xz.net/wiki/Alwaysblock2">Alwaysblock2 - HDLBits</a></li>
 </ul>
 <h3 id="problem-statement">Problem Statement</h3>
-<p>In this exercise, you will create a circuit with two levels of hierarchy. Your <code>top_module</code> will instantiate two copies of <code>add16</code> (provided), each of which will instantiate 16 copies of <code>add1</code> (which you must write). Thus, you must write <em>two</em> modules: <code>top_module</code> and <code>add1</code>.</p>
-<p>Like module_add, you are given a module <code>add16</code> that performs a 16-bit addition. You must instantiate two of them to create a 32-bit adder. One <code>add16</code> module computes the lower 16 bits of the addition result, while the second <code>add16</code> module computes the upper 16 bits of the result. Your 32-bit adder does not need to handle carry-in (assume 0) or carry-out (ignored).</p>
-<p>Connect the <code>add16</code> modules together as shown in the diagram below. The provided module <code>add16</code> has the following declaration:
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="k">module</span><span class="w"> </span><span class="n">add16</span><span class="w"> </span><span class="p">(</span><span class="w"> </span>
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="w">    </span><span class="k">input</span><span class="p">[</span><span class="mh">15</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span>
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="w">    </span><span class="k">input</span><span class="p">[</span><span class="mh">15</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span>
-<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="n">cin</span><span class="p">,</span><span class="w"> </span>
-<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">    </span><span class="k">output</span><span class="p">[</span><span class="mh">15</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">sum</span><span class="p">,</span><span class="w"> </span>
-<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="w">    </span><span class="k">output</span><span class="w"> </span><span class="n">cout</span><span class="w"> </span>
-<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="p">);</span>
-</code></pre></div></p>
-<p>Within each <code>add16</code>, 16 full adders (module <code>add1</code>, not provided) are instantiated to actually perform the addition. You must write the full adder module that has the following declaration:
-<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="k">module</span><span class="w"> </span><span class="n">add1</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">cin</span><span class="p">,</span><span class="w"> </span><span class="k">output</span><span class="w"> </span><span class="n">sum</span><span class="p">,</span><span class="w"> </span><span class="k">output</span><span class="w"> </span><span class="n">cout</span><span class="w"> </span><span class="p">);</span>
-</code></pre></div></p>
-<p>Recall that a full adder computes the sum and carry-out of a+b+cin.</p>
-<p>In summary, there are three modules in this design:</p>
+<p>For hardware synthesis, there are two types of always blocks that are relevant:</p>
 <ul>
-<li><code>top_module</code> — Your top-level module that contains two of...</li>
-<li><code>add16</code>, provided — A 16-bit adder module that is composed of 16 of...</li>
-<li><code>add1</code> — A 1-bit full adder module.</li>
+<li>Combinational: always @(*)</li>
+<li>Clocked: always @(posedge clk)</li>
 </ul>
-<p>If your submission is missing a <code>module add1</code>, you will get an error message that says <code>Error (12006): Node instance "user_fadd[0].a1" instantiates undefined entity "add1"</code>.</p>
-<p><a href="https://hdlbits.01xz.net/wiki/File:Module_fadd.png"><img alt="" src="https://hdlbits.01xz.net/mw/images/f/f3/Module_fadd.png" /></a></p>
-<details class="tip">
-<summary>Tip</summary>
-<p>Full adder equations:<br />
-sum = a ^ b ^ cin<br />
-cout = a&amp;b | a&amp;cin | b&amp;cin</p>
-</details>
-<h3 id="official-solution">Official Solution</h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>
-</code></pre></div>
+<p>Clocked always blocks create a blob of combinational logic just like combinational always blocks, but also creates a set of flip-flops (or "registers") at the output of the blob of combinational logic. Instead of the outputs of the blob of logic being visible immediately, the outputs are visible only immediately after the next (posedge clk).</p>
+<h4 id="blocking-vs-non-blocking-assignment">Blocking vs. Non-Blocking Assignment</h4>
+<p>There are three types of assignments in Verilog:</p>
+<ul>
+<li><strong>Continuous</strong> assignments (assign x = y;). Can only be used when <strong>not</strong> inside a procedure ("always block").</li>
+<li>Procedural <strong>blocking</strong> assignment: (x = y;). Can only be used inside a procedure.</li>
+<li>Procedural <strong>non-blocking</strong> assignment: (x &lt;= y;). Can only be used inside a procedure.</li>
+</ul>
+<p>In a <strong>combinational</strong> always block, use <strong>blocking</strong> assignments. In a <strong>clocked</strong> always block, use <strong>non-blocking</strong> assignments. A full understanding of why is not particularly useful for hardware design and requires a good understanding of how Verilog simulators keep track of events. Not following this rule results in extremely hard to find errors that are both non-deterministic and differ between simulation and synthesized hardware.</p>
+<h3 id="a-bit-of-practice">A bit of practice</h3>
+<p>Build an XOR gate three ways, using an assign statement, a combinational always block, and a clocked always block. Note that the clocked always block produces a different circuit from the other two: There is a flip-flop so the output is delayed.</p>
+<p><a href="https://hdlbits.01xz.net/wiki/File:Alwaysff.png"><img alt="" src="https://hdlbits.01xz.net/mw/images/4/40/Alwaysff.png" /></a></p>
 <h3 id="my-solution">My Solution</h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a>
-</code></pre></div>
-<h3 id="_1">未完成</h3>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="k">module</span><span class="w"> </span><span class="n">top_module</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="p">[</span><span class="mh">31</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">a</span><span class="p">,</span>
-<a id="__codelineno-4-3" name="__codelineno-4-3" href="#__codelineno-4-3"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="p">[</span><span class="mh">31</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">b</span><span class="p">,</span>
-<a id="__codelineno-4-4" name="__codelineno-4-4" href="#__codelineno-4-4"></a><span class="w">    </span><span class="k">output</span><span class="w"> </span><span class="p">[</span><span class="mh">31</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">sum</span>
-<a id="__codelineno-4-5" name="__codelineno-4-5" href="#__codelineno-4-5"></a><span class="p">);</span><span class="c1">//</span>
-<a id="__codelineno-4-6" name="__codelineno-4-6" href="#__codelineno-4-6"></a><span class="w">    </span><span class="kt">wire</span><span class="w"> </span><span class="p">[</span><span class="mh">16</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">carry</span><span class="p">;</span>
-<a id="__codelineno-4-7" name="__codelineno-4-7" href="#__codelineno-4-7"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">carry</span><span class="p">[</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mh">1</span><span class="mb">&#39;b0</span><span class="p">;</span>
-<a id="__codelineno-4-8" name="__codelineno-4-8" href="#__codelineno-4-8"></a><span class="w">    </span><span class="kt">reg</span><span class="w"> </span><span class="p">[</span><span class="mh">15</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">sum1</span><span class="p">;</span>
-<a id="__codelineno-4-9" name="__codelineno-4-9" href="#__codelineno-4-9"></a><span class="w">    </span><span class="kt">reg</span><span class="w"> </span><span class="p">[</span><span class="mh">15</span><span class="o">:</span><span class="mh">0</span><span class="p">]</span><span class="w"> </span><span class="n">sum2</span><span class="p">;</span>
-<a id="__codelineno-4-10" name="__codelineno-4-10" href="#__codelineno-4-10"></a><span class="w">    </span><span class="kt">wire</span><span class="w"> </span><span class="n">cout</span><span class="p">;</span>
-<a id="__codelineno-4-11" name="__codelineno-4-11" href="#__codelineno-4-11"></a><span class="w">    </span><span class="k">genvar</span><span class="w"> </span><span class="n">i</span><span class="p">;</span>
-<a id="__codelineno-4-12" name="__codelineno-4-12" href="#__codelineno-4-12"></a><span class="w">    </span><span class="k">generate</span>
-<a id="__codelineno-4-13" name="__codelineno-4-13" href="#__codelineno-4-13"></a><span class="w">        </span><span class="k">for</span><span class="w"> </span><span class="p">(</span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mh">0</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mh">16</span><span class="p">;</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="p">)</span><span class="w"> </span><span class="k">begin</span><span class="o">:</span><span class="w"> </span><span class="n">adder_loop</span>
-<a id="__codelineno-4-14" name="__codelineno-4-14" href="#__codelineno-4-14"></a><span class="w">            </span><span class="n">add1</span><span class="w"> </span><span class="n">adder</span><span class="w"> </span><span class="p">(</span>
-<a id="__codelineno-4-15" name="__codelineno-4-15" href="#__codelineno-4-15"></a><span class="w">                </span><span class="p">.</span><span class="n">a</span><span class="p">(</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">]),</span>
-<a id="__codelineno-4-16" name="__codelineno-4-16" href="#__codelineno-4-16"></a><span class="w">                </span><span class="p">.</span><span class="n">b</span><span class="p">(</span><span class="n">b</span><span class="p">[</span><span class="n">i</span><span class="p">]),</span>
-<a id="__codelineno-4-17" name="__codelineno-4-17" href="#__codelineno-4-17"></a><span class="w">                </span><span class="p">.</span><span class="n">cin</span><span class="p">(</span><span class="n">carry</span><span class="p">[</span><span class="n">i</span><span class="p">]),</span>
-<a id="__codelineno-4-18" name="__codelineno-4-18" href="#__codelineno-4-18"></a><span class="w">                </span><span class="p">.</span><span class="n">sum</span><span class="p">(</span><span class="n">sum1</span><span class="p">[</span><span class="n">i</span><span class="p">]),</span>
-<a id="__codelineno-4-19" name="__codelineno-4-19" href="#__codelineno-4-19"></a><span class="w">                </span><span class="p">.</span><span class="n">cout</span><span class="p">(</span><span class="n">carry</span><span class="p">[</span><span class="n">i</span><span class="o">+</span><span class="mh">1</span><span class="p">])</span>
-<a id="__codelineno-4-20" name="__codelineno-4-20" href="#__codelineno-4-20"></a><span class="w">            </span><span class="p">);</span>
-<a id="__codelineno-4-21" name="__codelineno-4-21" href="#__codelineno-4-21"></a><span class="w">        </span><span class="k">end</span>
-<a id="__codelineno-4-22" name="__codelineno-4-22" href="#__codelineno-4-22"></a><span class="w">    </span><span class="k">endgenerate</span>
-<a id="__codelineno-4-23" name="__codelineno-4-23" href="#__codelineno-4-23"></a>
-<a id="__codelineno-4-24" name="__codelineno-4-24" href="#__codelineno-4-24"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">cout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">carry</span><span class="p">[</span><span class="mh">16</span><span class="p">];</span>
-<a id="__codelineno-4-25" name="__codelineno-4-25" href="#__codelineno-4-25"></a>
-<a id="__codelineno-4-26" name="__codelineno-4-26" href="#__codelineno-4-26"></a><span class="w">    </span><span class="n">add16</span><span class="w"> </span><span class="n">u_add16</span><span class="p">(</span>
-<a id="__codelineno-4-27" name="__codelineno-4-27" href="#__codelineno-4-27"></a><span class="w">        </span><span class="p">.</span><span class="n">a</span><span class="p">(</span><span class="n">a</span><span class="p">[</span><span class="mh">31</span><span class="o">:</span><span class="mh">16</span><span class="p">]),</span>
-<a id="__codelineno-4-28" name="__codelineno-4-28" href="#__codelineno-4-28"></a><span class="w">        </span><span class="p">.</span><span class="n">b</span><span class="p">(</span><span class="n">b</span><span class="p">[</span><span class="mh">31</span><span class="o">:</span><span class="mh">16</span><span class="p">]),</span>
-<a id="__codelineno-4-29" name="__codelineno-4-29" href="#__codelineno-4-29"></a><span class="w">        </span><span class="p">.</span><span class="n">cin</span><span class="p">(</span><span class="n">cout</span><span class="p">),</span>
-<a id="__codelineno-4-30" name="__codelineno-4-30" href="#__codelineno-4-30"></a><span class="w">        </span><span class="p">.</span><span class="n">cout</span><span class="p">(),</span>
-<a id="__codelineno-4-31" name="__codelineno-4-31" href="#__codelineno-4-31"></a><span class="w">        </span><span class="p">.</span><span class="n">sum</span><span class="p">(</span><span class="n">sum2</span><span class="p">)</span>
-<a id="__codelineno-4-32" name="__codelineno-4-32" href="#__codelineno-4-32"></a><span class="w">    </span><span class="p">);</span>
-<a id="__codelineno-4-33" name="__codelineno-4-33" href="#__codelineno-4-33"></a>
-<a id="__codelineno-4-34" name="__codelineno-4-34" href="#__codelineno-4-34"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">sum</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="p">{</span><span class="n">sum2</span><span class="p">,</span><span class="w"> </span><span class="n">sum1</span><span class="p">};</span>
-<a id="__codelineno-4-35" name="__codelineno-4-35" href="#__codelineno-4-35"></a>
-<a id="__codelineno-4-36" name="__codelineno-4-36" href="#__codelineno-4-36"></a>
-<a id="__codelineno-4-37" name="__codelineno-4-37" href="#__codelineno-4-37"></a><span class="k">endmodule</span>
-<a id="__codelineno-4-38" name="__codelineno-4-38" href="#__codelineno-4-38"></a>
-<a id="__codelineno-4-39" name="__codelineno-4-39" href="#__codelineno-4-39"></a><span class="k">module</span><span class="w"> </span><span class="n">add1</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">a</span><span class="p">,</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">b</span><span class="p">,</span><span class="w"> </span><span class="k">input</span><span class="w"> </span><span class="n">cin</span><span class="p">,</span><span class="w">   </span><span class="k">output</span><span class="w"> </span><span class="n">sum</span><span class="p">,</span><span class="w"> </span><span class="k">output</span><span class="w"> </span><span class="n">cout</span><span class="w"> </span><span class="p">);</span>
-<a id="__codelineno-4-40" name="__codelineno-4-40" href="#__codelineno-4-40"></a>
-<a id="__codelineno-4-41" name="__codelineno-4-41" href="#__codelineno-4-41"></a><span class="w">    </span><span class="c1">// Full adder module here</span>
-<a id="__codelineno-4-42" name="__codelineno-4-42" href="#__codelineno-4-42"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">sum</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">^</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">^</span><span class="w"> </span><span class="n">cin</span><span class="p">;</span>
-<a id="__codelineno-4-43" name="__codelineno-4-43" href="#__codelineno-4-43"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">cout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="n">cin</span><span class="w"> </span><span class="o">|</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="o">&amp;</span><span class="w"> </span><span class="n">cin</span><span class="p">;</span>
-<a id="__codelineno-4-44" name="__codelineno-4-44" href="#__codelineno-4-44"></a>
-<a id="__codelineno-4-45" name="__codelineno-4-45" href="#__codelineno-4-45"></a><span class="k">endmodule</span>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="c1">// synthesis verilog_input_version verilog_2001</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="k">module</span><span class="w"> </span><span class="n">top_module</span><span class="p">(</span>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="n">clk</span><span class="p">,</span>
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="n">a</span><span class="p">,</span>
+<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="w">    </span><span class="k">input</span><span class="w"> </span><span class="n">b</span><span class="p">,</span>
+<a id="__codelineno-0-6" name="__codelineno-0-6" href="#__codelineno-0-6"></a><span class="w">    </span><span class="k">output</span><span class="w"> </span><span class="kt">wire</span><span class="w"> </span><span class="n">out_assign</span><span class="p">,</span>
+<a id="__codelineno-0-7" name="__codelineno-0-7" href="#__codelineno-0-7"></a><span class="w">    </span><span class="k">output</span><span class="w"> </span><span class="kt">reg</span><span class="w"> </span><span class="n">out_always_comb</span><span class="p">,</span>
+<a id="__codelineno-0-8" name="__codelineno-0-8" href="#__codelineno-0-8"></a><span class="w">    </span><span class="k">output</span><span class="w"> </span><span class="kt">reg</span><span class="w"> </span><span class="n">out_always_ff</span><span class="w">   </span><span class="p">);</span>
+<a id="__codelineno-0-9" name="__codelineno-0-9" href="#__codelineno-0-9"></a>
+<a id="__codelineno-0-10" name="__codelineno-0-10" href="#__codelineno-0-10"></a><span class="w">    </span><span class="k">assign</span><span class="w"> </span><span class="n">out_assign</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">^</span><span class="w"> </span><span class="n">b</span><span class="p">;</span>
+<a id="__codelineno-0-11" name="__codelineno-0-11" href="#__codelineno-0-11"></a>
+<a id="__codelineno-0-12" name="__codelineno-0-12" href="#__codelineno-0-12"></a><span class="w">    </span><span class="k">always</span><span class="p">@(</span><span class="o">*</span><span class="p">)</span><span class="k">begin</span>
+<a id="__codelineno-0-13" name="__codelineno-0-13" href="#__codelineno-0-13"></a><span class="w">        </span><span class="n">out_always_comb</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">^</span><span class="w"> </span><span class="n">b</span><span class="p">;</span>
+<a id="__codelineno-0-14" name="__codelineno-0-14" href="#__codelineno-0-14"></a><span class="w">    </span><span class="k">end</span>
+<a id="__codelineno-0-15" name="__codelineno-0-15" href="#__codelineno-0-15"></a>
+<a id="__codelineno-0-16" name="__codelineno-0-16" href="#__codelineno-0-16"></a><span class="w">    </span><span class="k">always</span><span class="p">@(</span><span class="k">posedge</span><span class="w"> </span><span class="n">clk</span><span class="p">)</span><span class="w"> </span><span class="k">begin</span>
+<a id="__codelineno-0-17" name="__codelineno-0-17" href="#__codelineno-0-17"></a><span class="w">        </span><span class="n">out_always_ff</span><span class="w"> </span><span class="o">&lt;=</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">^</span><span class="w"> </span><span class="n">b</span><span class="p">;</span>
+<a id="__codelineno-0-18" name="__codelineno-0-18" href="#__codelineno-0-18"></a><span class="w">    </span><span class="k">end</span>
+<a id="__codelineno-0-19" name="__codelineno-0-19" href="#__codelineno-0-19"></a>
+<a id="__codelineno-0-20" name="__codelineno-0-20" href="#__codelineno-0-20"></a><span class="k">endmodule</span>
 </code></pre></div>
 
 
@@ -2887,6 +3208,9 @@ cout = a&amp;b | a&amp;cin | b&amp;cin</p>
 
 
 
+
+  
+  
 
 
 
