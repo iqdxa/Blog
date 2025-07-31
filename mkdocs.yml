@@ -47,9 +47,10 @@ nav:
             - Module cseladd: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_cseladd.md
             - Module addsub: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Module_addsub.md
           - Procedures:
-            - Alwaysblock1: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock1.md
-            - Alwaysblock2: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Alwaysblock2.md
-            - Always if: 学习/FPGA/HDLBits练习/VerilogLanguage/Module：Hierarchy/Always_if.md
+            - Alwaysblock1: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Alwaysblock1.md
+            - Alwaysblock2: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Alwaysblock2.md
+            - Always if: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_if.md
+            - Always if2: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_if2.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
