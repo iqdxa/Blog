@@ -54,6 +54,7 @@ nav:
             - Always case: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_case.md
             - Always case2: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_case2.md
             - Always casez: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_casez.md
+            - Always nolatches: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_nolatches.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
