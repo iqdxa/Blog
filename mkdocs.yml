@@ -60,6 +60,7 @@ nav:
             - Conditional: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Conditional.md
             - Reduction: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Reduction.md
             - Gates100: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Gates100.md
+            # - Vector100r: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Vector100r.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
@@ -83,7 +84,7 @@ nav:
             - Multiplexers:
               - Mux2to1: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux2to1.md
               - Mux2to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux2to1v.md
-            #   - Mux9to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux9to1v.md
+              - Mux9to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux9to1v.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
