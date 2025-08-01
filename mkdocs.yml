@@ -85,6 +85,7 @@ nav:
               - Mux2to1: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux2to1.md
               - Mux2to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux2to1v.md
               - Mux9to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux9to1v.md
+              - Mux256to1: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux256to1.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
