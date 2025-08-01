@@ -58,6 +58,7 @@ nav:
           - MoreVerilogFeatures:
             - Conditional: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Conditional.md
             - Reduction: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Reduction.md
+            - Gates100: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Gates100.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
