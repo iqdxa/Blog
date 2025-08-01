@@ -57,6 +57,7 @@ nav:
             - Always nolatches: 学习/FPGA/HDLBits练习/VerilogLanguage/Procedures/Always_nolatches.md
           - MoreVerilogFeatures:
             - Conditional: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Conditional.md
+            - Reduction: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Reduction.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
