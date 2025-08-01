@@ -12,6 +12,7 @@ nav:
       - 初学者FPGA开发板选择: 学习/FPGA/初学者FPGA开发板选择.md
       - FPGA标准工程文件格式: 学习/FPGA/FPGA标准工程文件格式.md
       - FPGA程序固化方法: 学习/FPGA/FPGA程序固化方法.md
+      - Vivado常见报错及解决办法: 学习/FPGA/Vivado常见报错及解决办法.md
       - HDLBits练习: 
         - Getting Started:
           - Step one: 学习/FPGA/HDLBits练习/GettingStarted/Step_one.md
