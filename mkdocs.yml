@@ -90,6 +90,7 @@ nav:
               - Mux256to1v: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/Multiplexers/Mux256to1v.md
             - ArithmeticCircuits: 
               - Hadd: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Hadd.md
+              - Fadd: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Fadd.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
