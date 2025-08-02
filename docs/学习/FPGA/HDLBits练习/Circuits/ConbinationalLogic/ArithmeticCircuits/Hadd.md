@@ -27,3 +27,15 @@ module top_module(
     
 endmodule
 ```
+
+### Note
+- 使用拼接语法还可以简化代码：
+```Verilog
+module top_module( 
+    input a, b,
+    output cout, sum );
+
+    assign {cout, sum} = a + b;
+    
+endmodule
+```
