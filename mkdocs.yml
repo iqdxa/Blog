@@ -75,10 +75,10 @@ nav:
               - Gates: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Gates.md
               - 7420: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/7420.md
               - Truthtable1: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Truthtable1.md
-              - Mt2015 eq2: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Mt2015_eq2.md
-              - Mt2015 q4a: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4a.md
-              - Mt2015 q4b: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4b.md
-              - Mt2015 q4: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4.md
+              - Mt2015 eq2: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_eq2.md
+              - Mt2015 q4a: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4a.md
+              - Mt2015 q4b: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4b.md
+              - Mt2015 q4: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4.md
               - Ringer: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Ringer.md
               - Thermostat: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Thermostat.md
               - Popcount3: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/BasicGates/Popcount3.md
@@ -94,6 +94,7 @@ nav:
               - Hadd: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Hadd.md
               - Fadd: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Fadd.md
               - Adder3: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Adder3.md
+              - m2014 q4j: 学习/FPGA/HDLBits练习/Circuits/ConbinationalLogic/ArithmeticCircuits/Exams/m2014_q4j.md
     - Rust:
       - Burn导入问题: 学习/Rust/Burn导入问题.md
     - Android:
