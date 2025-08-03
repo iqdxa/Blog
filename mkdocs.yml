@@ -63,6 +63,7 @@ nav:
             - Vector100r: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Vector100r.md
             - Popcount255: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Popcount255.md
             - Adder100i: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Adder100i.md
+            - Bcdadd100: 学习/FPGA/HDLBits练习/VerilogLanguage/MoreVerilogFeatures/Bcdadd100.md
         - Circuits:
           - ConbinationalLogic:
             - BasicGates:
