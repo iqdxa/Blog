@@ -2,270 +2,334 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://vting-tfc.top/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/tags/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%A8%B1%E4%B9%90/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/PCL%E6%AD%A3%E7%89%88%E9%AA%8C%E8%AF%81%E9%97%AE%E9%A2%98/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%A8%B1%E4%B9%90/%E7%BC%BA%E6%B0%A7/%E7%BC%BA%E6%B0%A7%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/Android/%E4%BD%BF%E7%94%A8ADB%E5%8D%B8%E8%BD%BD%E6%89%8B%E6%9C%BA%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/FPGA%E6%A0%87%E5%87%86%E5%B7%A5%E7%A8%8B%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/FPGA%E7%A8%8B%E5%BA%8F%E5%9B%BA%E5%8C%96%E6%96%B9%E6%B3%95/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/Vivado%E5%B8%B8%E8%A7%81%E6%8A%A5%E9%94%99%E5%8F%8A%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/%E5%88%9D%E5%AD%A6%E8%80%85FPGA%E5%BC%80%E5%8F%91%E6%9D%BF%E9%80%89%E6%8B%A9/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/ArithmeticCircuits/Adder3/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/ArithmeticCircuits/Fadd/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/ArithmeticCircuits/Hadd/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/ArithmeticCircuits/Exams/m2014_q4j/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/7420/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Another_gate/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/GND/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Gates/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Gatesv/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Gatesv100/</loc>
-         <lastmod>2025-07-31</lastmod>
-    </url>
-    <url>
-         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Mt2015_eq2/</loc>
-         <lastmod>2025-07-31</lastmod>
-    </url>
-    <url>
-         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4/</loc>
-         <lastmod>2025-07-31</lastmod>
-    </url>
-    <url>
-         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4a/</loc>
-         <lastmod>2025-07-31</lastmod>
-    </url>
-    <url>
-         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Mt2015_q4b/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/NOR/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Popcount3/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Ringer/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Thermostat/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Truthtable1/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Two_gates/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Wire/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_eq2/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4a/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/BasicGates/Exams/Mt2015_q4b/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/Multiplexers/Mux256to1/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/Multiplexers/Mux256to1v/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/Multiplexers/Mux2to1/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/Multiplexers/Mux2to1v/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/Circuits/ConbinationalLogic/Multiplexers/Mux9to1v/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/GettingStarted/Step_one/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/GettingStarted/Zero/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/7485/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Andgate/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Norgate/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Notgate/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Wire/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Wire4/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Wire_decl/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Basics/Xnorgate/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_add/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_addsub/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_cseladd/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_fadd/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_name/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_pos/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_shift/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Module%EF%BC%9AHierarchy/Module_shift8/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Adder100i/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Bcdadd100/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Conditional/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Gates100/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Popcount255/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Reduction/</loc>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/MoreVerilogFeatures/Vector100r/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_case/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_case2/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_casez/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_if/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_if2/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
+    </url>
+    <url>
+         <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Always_nolatches/</loc>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Alwaysblock1/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Procedures/Alwaysblock2/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Gates4/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector0/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector1/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector2/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector3/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector4/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vector5/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vectorgates/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/FPGA/HDLBits%E7%BB%83%E4%B9%A0/VerilogLanguage/Vectors/Vectorr/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/Linux/%E9%80%80%E5%87%BAVim%E7%9A%84%E6%96%B9%E6%B3%95/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/MarkDown/%E5%BC%BA%E8%B0%83%E8%AF%AD%E6%B3%95/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/MkDocs/MkDocs%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/Rust/Burn%E5%AF%BC%E5%85%A5%E9%97%AE%E9%A2%98/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
     <url>
          <loc>https://vting-tfc.top/%E5%AD%A6%E4%B9%A0/%E5%85%B6%E4%BB%96/%E7%9F%A5%E7%BD%91%E7%A0%94%E5%AD%A6/%E7%9F%A5%E7%BD%91%E7%A0%94%E5%AD%A6%E7%99%BB%E5%BD%95%E5%A4%B1%E8%B4%A5%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95/</loc>
-         <lastmod>2025-07-31</lastmod>
+         <lastmod>2025-08-03</lastmod>
     </url>
 </urlset>
